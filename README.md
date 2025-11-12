@@ -1,6 +1,6 @@
- Online Food Delivery System – Data Analysis Project
+# Online Food Delivery System – Data Analysis Project
 
-## 📘 Overview
+## Overview
 
 This project focuses on analyzing an **Online Food Delivery System** using SQL and Power BI.
 The goal is to understand customer behavior, restaurant performance, spending patterns, and regional order trends.
@@ -8,7 +8,7 @@ By combining SQL-based insights with an interactive Power BI dashboard, the anal
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 * Customers prefer dishes like **Momos**, **Fish Curry**, and **Aloo Paratha**, showing strong demand for traditional and Indo-Chinese cuisines.
 * A few **loyal customers** contribute significantly to total orders, highlighting opportunities for personalized marketing.
@@ -19,16 +19,16 @@ By combining SQL-based insights with an interactive Power BI dashboard, the anal
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
-The business should focus on reaching more customers in smaller cities, as they already generate most of the orders.
+The business focus on reaching more customers in smaller cities, as they already generate most of the orders.
 High-performing restaurants like Fresh Garden can guide others to improve operations and customer engagement.
 Loyal customers should be rewarded through offers or special deals to maintain retention.
 Promoting premium dishes and combo meals can further increase sales, while better delivery and support for weaker outlets can drive overall growth and satisfaction.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **SQL (MySQL)** – Data querying, cleaning, and insight generation
 * **Power BI** – Visualization and interactive dashboard creation
@@ -37,7 +37,7 @@ Promoting premium dishes and combo meals can further increase sales, while bette
 
 ---
 
-## 📈 Dashboard Overview
+## Dashboard Overview
 
 The Power BI dashboard includes key metrics such as:
 
@@ -51,13 +51,7 @@ These visuals help in making **data-driven business decisions** to improve effic
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Bharti Manjhi**
-🎯 Data Analyst Enthusiast | SQL • Power BI • Excel
-📍 India
-🔗 *Connect on LinkedIn or Portfolio (optional link here)*
-
----
-
-Would you like me to make this version **optimized for GitHub formatting** (with proper Markdown spacing, bold titles, and emojis kept minimal for a professional tone)?
+🔗 *bhartimanjhi54@gmail.com*
